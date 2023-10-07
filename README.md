@@ -1,0 +1,2 @@
+# hsp_java_learning_cal_time
+这是用于计算B站视频韩顺平30天学java的视频时长和完成百分比的程序。
